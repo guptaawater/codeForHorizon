@@ -27,3 +27,4 @@ nbdist/
 
 #build files
 /.classpath
+.classpath
